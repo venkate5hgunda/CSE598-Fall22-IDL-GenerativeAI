@@ -33,6 +33,8 @@
 ### NOTEBOOK LINKS:
 * Baseline Model Jupyter Notebook: [Link](https://colab.research.google.com/drive/1pwrK0NQtamiWkEWdlC6m8WenJnQp4var?usp=sharing)
 * Diffusion Model Jupyter Notebook: [Link](https://colab.research.google.com/drive/1p9jPcfo6gIRQbRSQGVcCh0_pudpF7QHW?usp=sharing)
+* DCGAN with 50 epochs Kaggle Notebook: [Link](https://www.kaggle.com/code/patrocharm/cse-598-project-dcgan-50-epochs)
+* DCGAN with 500 epochs Kaggle Notebook: [Link](https://www.kaggle.com/code/patrocharm/cse-598-project-dcgan-500-epochs)
 
 ### MODEL LINKS:
 * Baseline DCGAN Model: [Link](https://drive.google.com/drive/folders/1i4_4soLUGullCS5ioMxT10kbOtf4nEWz?usp=sharing)
