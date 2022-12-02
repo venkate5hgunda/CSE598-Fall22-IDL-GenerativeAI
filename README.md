@@ -2,9 +2,9 @@
 *Fall-2022 (CSE 598: INTRODUCTION TO DEEP LEARNING)*
 
 *Group 12*
-* Venkatesh Gunda: [Link](https://github.com/venkate5hgunda)
-* Varsha Ravindra: [Link](https://github.com/Varsha-R)
-* Sujana Duvvuri Venkateswarlu: [Link](https://github.com/sduvvur7)
+* [Venkatesh Gunda](https://github.com/venkate5hgunda)
+* [Varsha Ravindra](https://github.com/Varsha-R)
+* [Sujana Duvvuri Venkateswarlu](https://github.com/sduvvur7)
 
 ## INSTRUCTIONS:
 * For Downloading the Data, there are two options:
