@@ -5,8 +5,8 @@
 
 ## INSTRUCTIONS:
 * For Downloading the Data, there are two options:
-  * Either download the Official Kaggle Dataset (https://www.kaggle.com/datasets/splcher/animefacedataset) and run all pre-processing Steps, 
-  * (or) Download this Folder (https://drive.google.com/drive/folders/124HOux2P2m1PyKB0C5_SnBxl_lTN4pvG?usp=sharing) into your Dataset Folder
+  * Either download the [Official Kaggle Dataset](https://www.kaggle.com/datasets/splcher/animefacedataset) and run all pre-processing Steps, 
+  * (or) Download this [Folder](https://drive.google.com/drive/folders/124HOux2P2m1PyKB0C5_SnBxl_lTN4pvG?usp=sharing) into your Dataset Folder
 * Once Downloaded, organize the folders in the following way: 
   * For Google Colab:
     ```
