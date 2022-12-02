@@ -1,7 +1,10 @@
 # CSE598 Group Project
-*Fall-2022 (INTRODUCTION TO DEEP LEARNING)*
+*Fall-2022 (CSE 598: INTRODUCTION TO DEEP LEARNING)*
 
 *Group 12*
+* Venkatesh Gunda: [Link](https://github.com/venkate5hgunda)
+* Varsha Ravindra: [Link](https://github.com/Varsha-R)
+* Sujana Duvvuri Venkateswarlu: [Link](https://github.com/sduvvur7)
 
 ## INSTRUCTIONS:
 * For Downloading the Data, there are two options:
@@ -33,8 +36,8 @@
 ### NOTEBOOK LINKS:
 * Baseline Model Jupyter Notebook: [Link](https://colab.research.google.com/drive/1pwrK0NQtamiWkEWdlC6m8WenJnQp4var?usp=sharing)
 * Diffusion Model Jupyter Notebook: [Link](https://colab.research.google.com/drive/1p9jPcfo6gIRQbRSQGVcCh0_pudpF7QHW?usp=sharing)
-* DCGAN with 50 epochs Kaggle Notebook: [Link](https://www.kaggle.com/code/patrocharm/cse-598-project-dcgan-50-epochs)
-* DCGAN with 500 epochs Kaggle Notebook: [Link](https://www.kaggle.com/code/patrocharm/cse-598-project-dcgan-500-epochs)
+* DCGAN with 50 epochs Kaggle Notebook: [Link](https://www.kaggle.com/code/patrocharm/dcgan-15k-50-epochs)
+* DCGAN with 300 epochs Kaggle Notebook: [Link](https://www.kaggle.com/patrocharm/dcgan-15k-300-epochs)
 
 ### MODEL LINKS:
 * Baseline DCGAN Model: [Link](https://drive.google.com/drive/folders/1i4_4soLUGullCS5ioMxT10kbOtf4nEWz?usp=sharing)
