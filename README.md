@@ -1,5 +1,35 @@
-# CSE598-Fall22-IDL-GenerativeAI
+# CSE598 Group Project
+*Fall-2022 (INTRODUCTION TO DEEP LEARNING)*
+*Group 12*
 
+## NOTEBOOK LINKS:
 Baseline Model Jupyter Notebook: https://colab.research.google.com/drive/1pwrK0NQtamiWkEWdlC6m8WenJnQp4var?usp=sharing
 
 Diffusion Model Jupyter Notebook: https://colab.research.google.com/drive/1p9jPcfo6gIRQbRSQGVcCh0_pudpF7QHW?usp=sharing
+
+## INSTRUCTIONS:
+* For Downloading the Data, there are two options:
+  * Either download the Official Kaggle Dataset (https://www.kaggle.com/datasets/splcher/animefacedataset) and run all pre-processing Steps, 
+  * (or) Download this Folder (https://drive.google.com/drive/folders/124HOux2P2m1PyKB0C5_SnBxl_lTN4pvG?usp=sharing) into your Dataset Folder
+* Once Downloaded, organize the folders in the following way: 
+  * For Google Colab:
+    ```
+    DriveRoot/
+      Colab Datasets/AnimeFacesDataset/ -> (Dump the previously downloaded Data Files in here)
+      Colab Models/CSE598_GroupProject/[MODEL_NAME].pt -> (Model Root Directory, .pt for PyTorch Models)
+      Colab Results/CSE598_GroupProject_[MODEL_NAME]/ -> (Each Model Results is its own directory)
+      [NoteBooks]
+    ```
+   * For Local (or) Custom Environment:
+     ```
+     Code/
+        Data/
+        Models/
+        Results/
+        [NoteBooks]
+     ```
+* Once the Project Organization is Done, ensure the paths are set correctly as mentioned in the [Diffusion Model Notebook](https://colab.research.google.com/drive/1p9jPcfo6gIRQbRSQGVcCh0_pudpF7QHW#scrollTo=CA7a_TR8h_3j&line=3&uniqifier=1).
+
+* The Jupyter Environment in Google Colab has all the necessary packages for Baseline & Diffusion Models. The few additional packages necessary are installed using inline `pip install xxxxx` commands, so no additional setup is necessary to run the code.
+* Click on the Link (or Upload the Notebook) and Connect to a GPU Colab Instance (CPU Works, but it is very slow), or a GPU Environment.
+
