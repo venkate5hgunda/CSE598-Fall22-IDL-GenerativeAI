@@ -38,6 +38,7 @@
 * Diffusion Model Jupyter Notebook: [Link](https://colab.research.google.com/drive/1p9jPcfo6gIRQbRSQGVcCh0_pudpF7QHW?usp=sharing)
 * DCGAN with 50 epochs Kaggle Notebook: [Link](https://www.kaggle.com/code/patrocharm/dcgan-15k-50-epochs)
 * DCGAN with 300 epochs Kaggle Notebook: [Link](https://www.kaggle.com/patrocharm/dcgan-15k-300-epochs)
+* VAE with 50 epochs Jupyter Notebook: [Link](https://colab.research.google.com/drive/1Fe_GF7K2-JFu0rvzzI0eEsWxh_FaLZI7)
 
 ### MODEL LINKS:
 * Baseline DCGAN Model: [Link](https://drive.google.com/drive/folders/1i4_4soLUGullCS5ioMxT10kbOtf4nEWz?usp=sharing)
